@@ -1,5 +1,5 @@
-# GoToSchoolS2016TestTask
-Test task for GoTo School in summer 2016.
+# GoToSchoolS2016-TestTask
+Test task for GoTo Machine Learning School in summer 2016.
 
 ## Report on final task
 [PDF](/3-report.pdf)
