@@ -1,4 +1,4 @@
-# GoToS2016-TestTask
+# GoTo ML summer 2016 test task
 Test task for GoTo Machine Learning school in summer 2016.
 
 ## Report on final task
