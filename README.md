@@ -1,10 +1,13 @@
-# GoTo ML summer 2016 test task
-Test task for GoTo Machine Learning school in summer 2016.
+# Отборочное задание на GoTo Machine Learning school
 
-## Report on final task
+Задание: на основании имеющихся данных нужно проанализировать интересы пользователей и построить алгоритм рекомендации новых фильмов. 
+
+Школа проводилась в августе 2016 года.
+
+## Отчет
 [PDF](/3-report.pdf)
 
-## Task
+## Задание
 
 **Здравствуйте!**
 
